@@ -1,8 +1,7 @@
 name: John Allen
 favicon: null
-layout_spectrum: 0.33288
-typography_spectrum: 0.31321
-title: John Allen
+layout_spectrum: 0.5358380549587309
+typography_spectrum: 0.0688839687500149
 cta:
   domain: null
   bucket: null
@@ -22,8 +21,8 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.5
+  brandStrength: 0.020894228015094995
   lightness: 0.652723275590688
-  saturation: 0.5
-  rhythmicContrast: 0.5
+  saturation: 0.36634719371795654
+  rhythmicContrast: 0.163697958458215
 purpose: []
